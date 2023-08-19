@@ -43,4 +43,6 @@ OUTPUT:
 menue:
 ![Screenshot (34)](https://github.com/ashish7408/LinuxWorld_summer_internship/assets/104715222/f17b4c13-73bc-4c40-bf95-fd00113d1173)
 linux command executer :
-![Screenshot (33)](https://github.com/ashish7408/LinuxWorld_summer_internship/assets/104715222/18a6b4a0-a25f-4646-b6a1-6744d07a6cb3)
+![Screenshot (36)](https://github.com/saurav20031/Linux_World_Internship_Project/assets/91817341/2f7a1ace-dd8a-4f90-9d33-0c2a46c1d280)
+
+
